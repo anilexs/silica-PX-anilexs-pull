@@ -1,0 +1,29 @@
+/* body{
+    background-color: rgb(112, 146, 190);
+} */
+table {
+    border: 1px solid black;
+    margin: auto;
+}
+td, th, tr{
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.fon{
+    background-color: rgb(112, 146, 190);
+}
+.black {
+    background-color: black;
+}
+
+.color1{
+    background-color: rgb(19,36,44);
+}
+.color2{
+    background-color: rgb(152, 89, 5
+    );
+}
+.color3{
+    background-color: rgb(11, 16, 24);
+}
